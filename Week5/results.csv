@@ -1,0 +1,7 @@
+Model,Test accuracy
+Baseline (always guess 1),0.609
+Logistic regression,0.609
+"KNN, k = 1",0.9925
+"KNN, k = 15",0.99
+"KNN, k = 1001",0.9705
+Logistic + squared terms,0.9995
